@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&&color=_hexcode:#FFFFFF&height=300&section=header&text=DavidHuxley&fontSize=90&fontAlign=50
+![header](https://capsule-render.vercel.app/api?type=transparent&color=_999999&fontColor=FFFFFF&text=David%20Huxley's%20GitHub&height=180&fontSize=70&)
