@@ -3,7 +3,11 @@
 I'm a tenacious developer
 <br/>
 
+![Huxley's GitHub stats](https://github.com/DavidHuxley/-github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![Most Used Language](https://github.com/DavidHuxley/-github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidHuxley&show_icons=true&theme=graywhite)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHuxley&theme=graywhite&layout=compact)<br/>
+
+<!-- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidHuxley&show_icons=true&theme=graywhite)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHuxley&theme=graywhite&layout=compact)<br/> -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=huxleyseo)](https://solved.ac/huxleyseo/) -->
