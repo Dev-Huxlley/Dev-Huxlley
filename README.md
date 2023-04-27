@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=FFFFFF&fontColor=373a3e&text=Huxley's%20GitHub&height=180&fontSize=75&) -->
 # Hello! I'm Huxley
-I'm a tenacious developer
+tenacious and logical
 <br/>
 
 ![Huxley's GitHub stats](https://github.com/DavidHuxley/-github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
