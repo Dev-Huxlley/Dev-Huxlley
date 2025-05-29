@@ -1,6 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=FFFFFF&fontColor=373a3e&text=Huxley's%20GitHub&height=180&fontSize=75&) -->
-# <p align="center"> Hello! I'm Huxlley </p>
-
+<h1 align="center">Hi 👋, I'm Huxlley</h1>
 <!--
 ![Huxley's GitHub stats](https://raw.githubusercontent.com/DavidHuxley/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Most Used Language](https://raw.githubusercontent.com/DavidHuxley/github-stats/master/generated/languages.svg#gh-dark-mode-only)
